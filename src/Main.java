@@ -47,5 +47,6 @@ public class Main {
         crew = crew + 94;
         hour = crew * 8;
         System.out.println("Если в компании работает " + crew + " человек, то всего " + hour + " часов работы может быть поделено между сотрудниками");
+
                     }
 }
